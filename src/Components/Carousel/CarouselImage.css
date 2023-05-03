@@ -1,9 +1,0 @@
-.image_div {
-  margin: 1rem 1rem 1rem 1rem;
-}
-.image_div img {
-  border-radius: 20px;
-  margin-bottom: 50px;
-  height: 500px;
-  object-fit: cover;
-}
