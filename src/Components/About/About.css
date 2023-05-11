@@ -115,7 +115,7 @@
   }
   .about__cards {
     grid-template-columns: 1fr;
-    gap: 1rem;
+    gap: 2rem;
   }
   .about__card {
     width: 90%;
