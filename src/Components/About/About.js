@@ -36,6 +36,15 @@ const About = () => {
                 </div>
               </div>
             </article>
+             <article className="about__card">
+              <h4>Native Place</h4>
+              <small>
+                Mandasan
+              </small>
+              <small>Ta. Jamjodhpur</small>
+              <small>Dis. Jamnagar</small>
+
+            </article>
             <article className="about__card">
               <h4>Education</h4>
               <small>
