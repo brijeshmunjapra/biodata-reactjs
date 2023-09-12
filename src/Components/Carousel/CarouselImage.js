@@ -6,7 +6,7 @@ import "./CarouselImage.css";
 
 function CarouselImage() {
   return (
-    <section id="imageSlider">
+    <section id="imageSlider" style={{marginTop:0, marginBottom: "7rem"}}>
       <h2>Photos</h2>
       <Carousel
         showThumbs={false}

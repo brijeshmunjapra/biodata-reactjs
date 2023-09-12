@@ -35,18 +35,18 @@ const Navbar = () => {
         <MdFamilyRestroom />
       </a>
       <a
-        href="#imageSlider"
-        onClick={() => setActiveNav("#imageSlider")}
-        className={activeNav === "#imageSlider" ? "active" : ""}
-      >
-        <ImImages />
-      </a>
-      <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
         className={activeNav === "#contact" ? "active" : ""}
       >
         <BsInstagram />
+      </a>
+      <a
+        href="#imageSlider"
+        onClick={() => setActiveNav("#imageSlider")}
+        className={activeNav === "#imageSlider" ? "active" : ""}
+      >
+        <ImImages />
       </a>
     </nav>
   );
