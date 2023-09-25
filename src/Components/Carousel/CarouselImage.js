@@ -16,16 +16,13 @@ function CarouselImage() {
         showArrows={false}
       >
         <div className="image_div">
-          <img src="https://i.ibb.co/WxFjrY3/1.jpg" alt="Image1" />
+          <img src="https://i.ibb.co/8NPSbFK/IMG-20230925-090940.jpg" alt="Image3" />
         </div>
         <div className="image_div">
-          <img src="https://i.ibb.co/YDrD4SD/2.jpg" alt="Image2" />
+          <img src="https://i.ibb.co/16Y2LQB/IMG-20230913-192534.jpg" alt="Image2" />
         </div>
         <div className="image_div">
-          <img src="https://i.ibb.co/DpQHZt9/3.jpg" alt="Image3" />
-        </div>
-        <div className="image_div">
-          <img src="https://i.ibb.co/bQqNRjn/4.jpg" alt="Image4" />
+          <img src="https://i.ibb.co/HVjDWnG/IMG20230820172911.jpg" alt="Image1" />
         </div>
       </Carousel>
     </section>
