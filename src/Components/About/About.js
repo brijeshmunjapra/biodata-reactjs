@@ -19,7 +19,7 @@ const About = () => {
                 <div className="about_personal_details">
                   <small>Height-Weight :</small>
 
-                  <small>5' 6", 55 Kgs</small>
+                  <small>5' 7", 55 Kgs</small>
                 </div>
                 <div className="about_personal_details">
                   <small>Cast :</small>
@@ -53,7 +53,7 @@ const About = () => {
             <article className="about__card">
               <h4>Occupation</h4>
               <small>
-                1) Software Developer at Ivory Technolab Pvt. Ltd., Ahmedabad
+                1) Software Developer at Incipient Infotech, Ahmedabad
               </small>
               <small>2) Freelance Sketch Artist</small>
             </article>
