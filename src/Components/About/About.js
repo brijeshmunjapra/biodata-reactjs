@@ -53,9 +53,11 @@ const About = () => {
             <article className="about__card">
               <h4>Occupation</h4>
               <small>
-                1) Software Developer at Incipient Infotech, Ahmedabad
+                1) Software Developer at
+                Solvative pvt ltd of Ahmedabad
               </small>
-              <small>2) Freelance Sketch Artist</small>
+              <small>Current- Work from home</small>
+              <small style={{marginTop:'10px'}}>2) Freelance Sketch Artist</small>
             </article>
           </div>
         </div>
