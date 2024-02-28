@@ -6,7 +6,7 @@ import "./CarouselImage.css";
 
 function CarouselImage() {
   return (
-    <section id="imageSlider" style={{marginTop:0, marginBottom: "7rem"}}>
+    <section id="imageSlider" style={{ marginTop: 0, marginBottom: "7rem" }}>
       <h2>Photos</h2>
       <Carousel
         showThumbs={false}
@@ -16,13 +16,22 @@ function CarouselImage() {
         showArrows={false}
       >
         <div className="image_div">
-          <img src="https://i.ibb.co/8NPSbFK/IMG-20230925-090940.jpg" alt="Image3" />
+          <img
+            src="https://i.ibb.co/8NPSbFK/IMG-20230925-090940.jpg"
+            alt="Image3"
+          />
         </div>
         <div className="image_div">
-          <img src="https://i.ibb.co/16Y2LQB/IMG-20230913-192534.jpg" alt="Image2" />
+          <img
+            src="https://i.ibb.co/16Y2LQB/IMG-20230913-192534.jpg"
+            alt="Image2"
+          />
         </div>
         <div className="image_div">
-          <img src="https://i.ibb.co/HVjDWnG/IMG20230820172911.jpg" alt="Image1" />
+          <img
+            src="https://i.ibb.co/HVjDWnG/IMG20230820172911.jpg"
+            alt="Image1"
+          />
         </div>
       </Carousel>
     </section>
