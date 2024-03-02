@@ -14,7 +14,8 @@ const Header = () => {
         <small style={{ color: "#929292" }}>Kamrej, Surat- 394180</small>
 
         <div className="myImage">
-        <img src="https://i.ibb.co/RyfSJFB/IMG-20230219-181154.jpg" alt="main"/>
+        {/* <img src="https://i.ibb.co/RyfSJFB/IMG-20230219-181154.jpg" alt="main"/> */}
+        <img src="https://i.ibb.co/Fnhjj1Q/IMG-20240302-092337.jpg" alt="IMG-20240302-092337" border="0"></img>
         </div>
         <a href="#contact" className="scroll__down">
           Scroll down
