@@ -54,9 +54,8 @@ const About = () => {
               <h4>Occupation</h4>
               <small>
                 1) Software Developer at
-                Solvative pvt ltd of Ahmedabad
+                Solvative pvt. ltd.
               </small>
-              <small>Current- Work from home</small>
               <small style={{marginTop:'10px'}}>2) Freelance Sketch Artist</small>
             </article>
           </div>
