@@ -27,12 +27,6 @@ function CarouselImage() {
             alt="Image2"
           />
         </div>
-        <div className="image_div">
-          <img
-            src="https://i.ibb.co/HVjDWnG/IMG20230820172911.jpg"
-            alt="Image1"
-          />
-        </div>
       </Carousel>
     </section>
   );
